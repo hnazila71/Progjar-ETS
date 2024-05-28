@@ -1,5 +1,9 @@
 # Link Tabel Lengkap : https://docs.google.com/spreadsheets/d/1QN4SgUB9OIhTEbO-Os9VvrqewqxBIwhCekOjJ_yBPz8/edit#gid=0
 
+
+Nama: Yusuf Hasan Nazila
+NRP: 5025211225
+Kelas : Pemrograman Jaringan C
 ## server_process_http.py (Multi Process Non Secure)
 - C 10
   
